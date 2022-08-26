@@ -1,3 +1,3 @@
 **Hi Everyone**👋
 
-I'm junis, a computer science stusent at Taiwan. I'm interested in distributed systems and cloud computing.
+I'm junis, a computer science student in Taiwan.
